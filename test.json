@@ -1,23 +1,23 @@
 {
   "fruits":[
     {
-      "name":"mango"
-      "color":"yellow"
+      "name":"mango",
+      "color":"yellow",
       "shape":"oval"
     },
     {
-      "name":"appe"
-      "color":"red"
+      "name":"appe",
+      "color":"red",
       "shape":"round"
     },
     {
-      "name":"banana"
-      "color":"yellow"
+      "name":"banana",
+      "color":"yellow",
       "shape":"elongated"
     },
     {
-      "name":"pineapple"
-      "color":"yellow"
+      "name":"pineapple",
+      "color":"yellow",
       "shape":"oval"
     }
     ]
